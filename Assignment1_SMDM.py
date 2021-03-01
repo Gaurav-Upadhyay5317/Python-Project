@@ -1,6 +1,5 @@
 """
 Name: Gaurav Sanjiv Upadhyay
-SUID:  999301765
 
 Program: To know your starsign using your birthdate.
 
